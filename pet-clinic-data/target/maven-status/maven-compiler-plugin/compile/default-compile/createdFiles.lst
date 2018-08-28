@@ -1,0 +1,5 @@
+com/grabarski/mateusz/petclinic/domain/models/Vet.class
+com/grabarski/mateusz/petclinic/domain/models/PetType.class
+com/grabarski/mateusz/petclinic/domain/models/Person.class
+com/grabarski/mateusz/petclinic/domain/models/Owner.class
+com/grabarski/mateusz/petclinic/domain/models/Pet.class
