@@ -51,7 +51,7 @@
 	</build>
 
 	<scm>
-		<developerConnection>https://github.com/mgrabarski/spring-pet-clinic.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:mgrabarski/spring-pet-clinic.git</developerConnection>
 		<tag>SNAPSHOT</tag>
 	</scm>
 
