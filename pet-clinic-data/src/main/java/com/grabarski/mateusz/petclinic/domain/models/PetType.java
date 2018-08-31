@@ -1,9 +1,11 @@
 package com.grabarski.mateusz.petclinic.domain.models;
 
+import com.grabarski.mateusz.petclinic.domain.models.base.BaseEntity;
+
 /**
  * Created by Mateusz Grabarski on 28.08.2018.
  */
-public class PetType {
+public class PetType extends BaseEntity {
 
     private String name;
 
