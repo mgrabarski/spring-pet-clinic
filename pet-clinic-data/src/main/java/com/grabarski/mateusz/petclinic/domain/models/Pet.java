@@ -1,11 +1,13 @@
 package com.grabarski.mateusz.petclinic.domain.models;
 
+import com.grabarski.mateusz.petclinic.domain.models.base.BaseEntity;
+
 import java.time.LocalDate;
 
 /**
  * Created by Mateusz Grabarski on 28.08.2018.
  */
-public class Pet {
+public class Pet extends BaseEntity {
 
     private PetType petType;
     private Owner owner;
